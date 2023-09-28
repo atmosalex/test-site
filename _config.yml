@@ -1,5 +1,4 @@
-title: Alexander Lozinski
+title: Alexander Lozinski on Github
 theme: jekyll-theme-minimal
-navbar-links:
-  projects: "projects.md"
+description: My portfolio of recent work in the field of machine learning!
 avatar: "/assets/test.jpg"
