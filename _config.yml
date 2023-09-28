@@ -1,2 +1,5 @@
 title: Alexander Lozinski
 theme: jekyll-theme-minimal
+navbar-links:
+  projects: "projects.md"
+avatar: "/assets/img/test.jpg"
